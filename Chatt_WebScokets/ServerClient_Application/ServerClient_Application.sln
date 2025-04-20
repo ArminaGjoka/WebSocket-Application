@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerClient_Application", "ServerClient_Application.csproj", "{ED4E0E8B-6602-4938-BFA5-7278E0F103E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormCliente2", "..\FormCliente2\FormCliente2.csproj", "{A543972E-07CE-4210-A558-E2DC27A0435F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BC454CB6-D88C-4E1A-9519-AA0189902A0A}"
+	ProjectSection(SolutionItems) = preProject
+		WebSocketServer.cs = WebSocketServer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4E0E8B-6602-4938-BFA5-7278E0F103E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4E0E8B-6602-4938-BFA5-7278E0F103E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4E0E8B-6602-4938-BFA5-7278E0F103E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4E0E8B-6602-4938-BFA5-7278E0F103E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A543972E-07CE-4210-A558-E2DC27A0435F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A543972E-07CE-4210-A558-E2DC27A0435F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A543972E-07CE-4210-A558-E2DC27A0435F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A543972E-07CE-4210-A558-E2DC27A0435F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD53F671-081C-4332-8096-C37E2F31FC88}
+	EndGlobalSection
+EndGlobal

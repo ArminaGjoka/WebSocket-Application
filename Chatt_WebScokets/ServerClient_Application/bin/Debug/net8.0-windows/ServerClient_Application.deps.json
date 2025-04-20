@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ServerClient_Application/1.0.0": {
+        "runtime": {
+          "ServerClient_Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerClient_Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
